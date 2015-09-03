@@ -1,0 +1,8 @@
+TO RUN AN ACTION
+  action->SetCode(ai::Scavenger::Action::GO_NORTH);
+
+TO RUN THE PROGRAM:
+- Add agent to AgentPrograms.pm eg: name => 'dude', key => 'k', header => 'crmDude.h', cpp => ['crmDude.cpp], constructor => 'crm::Scavenger::Dude(opts)',
+- go to /ai-agents/build/linux/ and run make
+- go to /ai/bin/00bin-o and open Run_scavenger_search and change ./ScavengerAgent to be -a k -t 0
+- run ./Run_Scavenger_Search
