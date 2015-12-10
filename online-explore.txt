@@ -1,0 +1,4 @@
+Dude: Charge 65.4725 HitPoints -7 QuitTime -1 LastTime 119 VisitedCells 18 Score 0 
+Dude: Charge -0.91472 HitPoints 19 QuitTime -1 LastTime 400 VisitedCells 58 Score 0 
+Dude: Charge 96 HitPoints 100 QuitTime -1 LastTime 9 VisitedCells 2 Score 0 
+Dude: Charge 36.9429 HitPoints -340.06 QuitTime -1 LastTime 274 VisitedCells 42 Score 0 
